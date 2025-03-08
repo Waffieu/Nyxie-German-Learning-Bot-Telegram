@@ -7,7 +7,7 @@ Bu bot, Nyxie Protogen Furry bir Telegram chatbotudur. Groq API ile çalışır 
 ### Özellikler
 
 - **Almanca Konuşma**: Bot her zaman Almanca olarak cevap verir ve türkçe çeviri sağlar
-- **Loona Karakteri**: Helluva Boss dizisindeki Loona karakterinin kişiliği ve konuşma tarzını taklit eder
+- **Nyxie Karakteri**: Protogen furry kişiliğine sahiptir. furry olarak cevap verir.
 - **Sınırsız Bellek**: FAISS vektör veritabanı kullanarak sohbet geçmişini hatırlar
 - **Kişiselleştirilmiş Deneyim**: Her kullanıcı için özel sohbet geçmişi tutar
 - **Düşünce Süreçleri**: Bot düşünce süreçlerini `<think></think>` etiketleri içinde gizler

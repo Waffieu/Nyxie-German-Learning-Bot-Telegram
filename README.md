@@ -1,8 +1,8 @@
-# Loona Telegram Chatbot
+# Nyxie Telegram Chatbot
 
 ## Türkçe Açıklama
 
-Bu bot, nyxie Protogen Furry bir Telegram chatbotudur. Groq API ile çalışır ve DeepSeek-R1-Distill-Llama-70B modelini kullanır.
+Bu bot, Nyxie Protogen Furry bir Telegram chatbotudur. Groq API ile çalışır ve DeepSeek-R1-Distill-Llama-70B modelini kullanır.
 
 ### Özellikler
 
